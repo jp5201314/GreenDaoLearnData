@@ -1,0 +1,3 @@
+# GreenDaoLearnData
+GreenDao数据库学习资料
+资料中包含一对多关联关系和复制外部db到手机中应用的默认数据库中
